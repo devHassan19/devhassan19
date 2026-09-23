@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Y](https://y-back-ag9a.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://profile.devhassan.online/](https://profile.devhassan.online/)
+- 👨‍💻 All of my projects are available at [https://profile.devhassan.cc/](https://profile.devhassan.cc/)
 
 - 📫 How to reach me **devhassan19@gmail.com**
 
